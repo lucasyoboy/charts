@@ -1,6 +1,6 @@
 image:
   repository: jgraph/drawio
-  tag: 24.5.3@sha256:a3a1b49bebae1e1a8fed9712d5a65e278a0c1c877100ed5c48b46f0e3f2a5edf
+  tag: 24.5.4@sha256:3cd2495cbb24b2bc1dfb571922e27977d9c76ef4b97237a26446d468a3d3350f
   pullPolicy: IfNotPresent
 securityContext:
   container:
